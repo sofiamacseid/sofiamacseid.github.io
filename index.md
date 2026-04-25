@@ -3,7 +3,7 @@
 layout: default
 ---
 
-# This is a big header
+# Summary of Analysis
 This website explores an analysis that my partner and I performed on Comp 110 class survey data. Survey data was used to analyze whether students generally found LS questions effective. Furthermore, we used the survey data to determine if students who rated LS questions as more effective also reported higher understanding. We selected columns from the data that was relevant to our analysis. We focused on lsqs_effective and understanding to determine if LS assignemnts improve comprehension. To create our graphs, we converted the columns to integers from strings so we can have numerical values. First, we examined the distribution of LSQ effectiveines ratings. To examine this distrubution we used a boxplot to visualize how students generally responded. This helped us determine if overall students found the LS assignments to be helpful and effective. Then, we created a scatterplot to visualize the relationship between LSQ effectiveness and student understanding, in which higher LSQ effectivness rating should correspond to higher understanding. Since the values are only 1-7 for both, it is difficult to understand the trend through a scatter plot. Becaue it is hard to see the trend, we then made a categorical plot. This plot shows that there is an upwards trend that describes that students who have a higher lsqs_effecive score also have a higher understanding. This supports our hypothesis that LS assignments are helpful for understanding and therefor should be increased. Finally, we created a box plot that utilized error bars to further analyze how lsqs_effective relates to understanding.
 
 
